@@ -1,1 +1,3 @@
 # Numerical_Analysis_for_ML_Project_2021-22
+## Description
+The project required to study and analyze how some of the most known classification algorithms, namely Naïve Bayes, K-Nearest Neighbors and Logistic Regression, perform when applied to the fraud detection problem and which techniques could be employed to improve their results. The implementation of the mentioned algorithms was realized without the use of the 'Scikit-learn' library.
